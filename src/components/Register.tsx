@@ -174,6 +174,7 @@ const SchoolRegistrationForm: React.FC = () => {
         "4-yosh",
         "5-yosh",
         "6-yosh",
+        "Maktabga tayyorlov guruhi"
     ]
 
     const handleInputChange = (field: keyof FormData) => (
