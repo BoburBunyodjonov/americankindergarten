@@ -142,17 +142,8 @@ const SchoolRegistrationForm: React.FC = () => {
 
     const tumanlar = [
         'Namangan shahri',
-        'Chortoq tumani',
-        'Chust tumani',
-        'Kasansoy tumani',
-        'Mingbuloq tumani',
-        'Namangan tumani',
-        'Norin tumani',
-        'Pop tumani',
-        'To\'raqo\'rg\'on tumani',
-        'Uchqo\'rg\'on tumani',
-        'Uychi tumani',
-        'Yangiqo\'rg\'on tumani',
+        'Yangi Namangan tumani',
+        'Davlatobod tumani',
         "Boshqa"
     ];
 
