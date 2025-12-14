@@ -323,7 +323,7 @@ const SchoolRegistrationForm: React.FC = () => {
                                     // }}
                                 >
                                     American KinderGarten
-                                    Hususiy bog'chasi
+                                    Xususiy bog'chasi
 
                                 </Typography>
 
